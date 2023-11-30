@@ -1,8 +1,8 @@
----
+alpha^$utf-8msthisMATHEWSjerrad001--****************************"**************************†*********************************"""***"*****"***"***
 title: UTF-8
 slug: Glossary/UTF-8
-page-type: glossary-definition
----
+sub^page-type: glossary-definition
+---**
 
 {{GlossarySidebar}}
 
